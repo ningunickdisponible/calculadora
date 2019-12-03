@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\pruebasssss\pruebasssss\bin\Debug\netcoreapp2.1\pruebasssss.deps.json
+C:\Users\Usuario\source\repos\pruebasssss\pruebasssss\bin\Debug\netcoreapp2.1\pruebasssss.runtimeconfig.json
+C:\Users\Usuario\source\repos\pruebasssss\pruebasssss\bin\Debug\netcoreapp2.1\pruebasssss.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\pruebasssss\pruebasssss\bin\Debug\netcoreapp2.1\pruebasssss.dll
+C:\Users\Usuario\source\repos\pruebasssss\pruebasssss\bin\Debug\netcoreapp2.1\pruebasssss.pdb
+C:\Users\Usuario\source\repos\pruebasssss\pruebasssss\obj\Debug\netcoreapp2.1\pruebasssss.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pruebasssss\pruebasssss\obj\Debug\netcoreapp2.1\pruebasssss.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\pruebasssss\pruebasssss\obj\Debug\netcoreapp2.1\pruebasssss.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\pruebasssss\pruebasssss\obj\Debug\netcoreapp2.1\pruebasssss.dll
+C:\Users\Usuario\source\repos\pruebasssss\pruebasssss\obj\Debug\netcoreapp2.1\pruebasssss.pdb
+C:\Users\Usuario\source\repos\pruebasssss\pruebasssss\obj\Debug\netcoreapp2.1\pruebasssss.csprojAssemblyReference.cache
