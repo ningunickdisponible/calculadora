@@ -36,7 +36,23 @@ namespace pruebasssss
                         Console.WriteLine(var1 * var2);
                         break;
                     case "D":
-                        Console.WriteLine(var1 / var2);
+                        if (var2 == 0)
+                        {
+                            Console.WriteLine("No se puede dividir por cero, reingrese otra opcion");
+                            entra = true;
+                        }
+                        else
+                        {
+                            if ((decimal)var1 / var2 != (var1 / var2))
+                            {
+                                Console.WriteLine((decimal)var1 / var2);
+                            }
+                            else
+                            {
+                                Console.WriteLine(var1 / var2);
+                            }
+                        }
+                        
                         break;
                     default:
                         //Aca podes poner cualquier cosa, total la condicion del while, solamente va a salir si es S, R, M o D.
