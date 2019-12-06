@@ -22,7 +22,7 @@ namespace pruebasssss
                 Console.WriteLine("\t R-Resta");
                 Console.WriteLine("\t M-Multiplicacion");
                 Console.WriteLine("\t D-Division");
-
+                Console.WriteLine("\t P-Es par");
                 string operacion = Console.ReadLine();
                 switch (operacion.ToUpper())
                 {
@@ -52,7 +52,9 @@ namespace pruebasssss
                                 Console.WriteLine(var1 / var2);
                             }
                         }
-                        
+                        break;
+                    case "P":
+                        Console.WriteLine(esPar(var1).ToString() + esPar(var2).ToString());
                         break;
                     default:
                         //Aca podes poner cualquier cosa, total la condicion del while, solamente va a salir si es S, R, M o D.
@@ -67,7 +69,10 @@ namespace pruebasssss
         {
             Console.WriteLine(x + y);
         }
-
+        static bool esPar(int x)
+        {
+            return x % 2 == 0;
+        }
 
     }
 }
